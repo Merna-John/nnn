@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 nkcenkw
 cemlmcw
 cknkncve
@@ -7,3 +8,6 @@ cklmwcl,
 =======
 mmmmmmmmmmmmmmmmmmm
 >>>>>>> location1
+=======
+nkcec mmc cesnkw
+>>>>>>> 6d3025bf509b3e629f0c49fc0c7270ea272a5cd0
